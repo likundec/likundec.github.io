@@ -8,23 +8,23 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Built for Jekyll 3</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <h2 class="post-title"><font color="CRIMSON">Job Hunting!!!</font></h2>
+  <p class="post-excerpt"><font color="CRIMSON">I will graduate in 2022 summer, and am on the academic job market.</font></p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <h2 class="post-title">Recent News</h2>
+  <p class="post-excerpt">Our project "Atmospheric General Circulation Model with millions of cores" starts. [2020.05]</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <h2 class="post-title"> </h2>
+  <p class="post-excerpt">Our paper "An Efficient Vectorization Scheme for Stencil Computation" is under review. [2020.04]</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <h2 class="post-title"> </h2>
+  <p class="post-excerpt">Our paper "OpenKMC: A KMC design for hundred-billion-atom simulation using millions of cores on Sunway Taihulight" has been accepted by SC 19. [2019.09]<a href="https://sc19.supercomputing.org/presentation/?id=pap236&sess=sess160"> Check details here.</a></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
