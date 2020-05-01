@@ -1,5 +1,9 @@
 # Site navigation links
 
+- title: Home
+  url: /
+  excerpt: "Examples of long form posts."
+  image: 400x250.gif
 
 - title: Research
   url: /articles/
