@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Getting Started with Skinny Bones"
+title: "Getting Started with Kun Li"
 date: 2014-06-25T13:57:25-04:00
 modified: 2016-06-01T16:21:57-04:00
 excerpt:
@@ -12,28 +12,28 @@ image:
 share: false
 ---
 
-The basics for getting Skinny Bones setup.
+The basics for getting Kun Li setup.
 
 {% include toc.html %}
 
 ## Installation
 
-Skinny Bones requires [Jekyll](http://jekyllrb.com/) 3.0. Make sure to run `bundle update` if you aren't on the latest version or `bundle install` if this is your first time installing it.
+Kun Li requires [Jekyll](http://jekyllrb.com/) 3.0. Make sure to run `bundle update` if you aren't on the latest version or `bundle install` if this is your first time installing it.
 
-If you are creating a new Jekyll site using Skinny Bones following these steps:
+If you are creating a new Jekyll site using Kun Li following these steps:
 
-1. [Download Skinny Bones](https://github.com/mmistakes/jekyll-theme-skinny-bones/archive/master.zip) and unzip.
+1. [Download Kun Li](https://github.com/mmistakes/jekyll-theme-skinny-bones/archive/master.zip) and unzip.
 2. Rename `jekyll-theme-skinny-bones-master` to something meaningful ie: `new-site`
 3. Run `bundle install` to install all Jekyll and all dependencies.
 4. Update `_config.yml`, add navigation, and add posts/pages. Full details below.
 
-If you want to use Skinny Bones with an existing Jekyll site follow these steps:
+If you want to use Kun Li with an existing Jekyll site follow these steps:
 
-1. [Download Skinny Bones](https://github.com/mmistakes/jekyll-theme-skinny-bones/archive/master.zip) and unzip.
+1. [Download Kun Li](https://github.com/mmistakes/jekyll-theme-skinny-bones/archive/master.zip) and unzip.
 2. Rename `jekyll-theme-skinny-bones-master` to something meaningful ie: `new-site`
 3. Run `bundle install` to install all Jekyll and all dependencies.
 4. Add all of your existing posts, pages, and any other content you want to move over.
-5. Update YAML front matter blocks to match names used by Skinny Bones. Full details below.
+5. Update YAML front matter blocks to match names used by Kun Li. Full details below.
 6. Update `config.yml`, add navigation links. Full details below. 
 
 ---
@@ -56,7 +56,7 @@ bundle exec jekyll serve
 
 ## Scaffolding
 
-How Skinny Bones is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under the root folder. The compiled Jekyll site outputs to `_site/`.
+How Kun Li is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under the root folder. The compiled Jekyll site outputs to `_site/`.
 
 ```bash
 jekyll-theme-skinny-bones-master
@@ -118,7 +118,7 @@ A quick checklist of the files you'll want to edit to get up and running.
 
 The title of your site... shocker!
 
-Example `title: Skinny Bones`
+Example `title: Kun Li`
 
 #### Site Description
 
@@ -358,7 +358,7 @@ To streamline the creation of posts and pages, [Jekyll::Compose](https://github.
 
 Found a bug or aren't quite sure how something works? By all means [submit an issue](https://github.com/mmistakes/jekyll-theme-skinny-bones/issues) on GitHub. For straight forward bug fixes feel free to submit pull requests. 
 
-**Skinny Bones** was built predominately as a framework for [my own site](http://mademistakes.com). My intention was never to make it all things for all people. So please keep that in mind before submitting new features or enhancements. If you've used any of my [Jekyll themes](http://mademistakes.com/work/jekyll-themes/) I think it's pretty clear what I like and what I try to avoid. When in doubt ask before wasting your time on a feature that won't get merged in.
+**Kun Li** was built predominately as a framework for [my own site](http://mademistakes.com). My intention was never to make it all things for all people. So please keep that in mind before submitting new features or enhancements. If you've used any of my [Jekyll themes](http://mademistakes.com/work/jekyll-themes/) I think it's pretty clear what I like and what I try to avoid. When in doubt ask before wasting your time on a feature that won't get merged in.
 
 ---
 
