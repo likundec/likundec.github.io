@@ -5,13 +5,23 @@
   excerpt: "Everything you need to know to get started with Kun Li and Jekyll."
   image: 400x250.gif
 
-- title: Sample Articles
+- title: Research
   url: /articles/
   excerpt: "Examples of long form posts."
   image: 400x250.gif
 
-- title: Media
-  url: /media/
+- title: Projects
+  url: /articles/
+  excerpt: "Examples of long form posts."
+  image: 400x250.gif
+
+- title: Blog
+  url: /articles/
+  excerpt: "Examples of long form posts."
+  image: 400x250.gif
+
+- title: CV
+  url: /cv/
   excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
   image: 400x250.gif
 
