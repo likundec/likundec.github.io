@@ -1,9 +1,5 @@
 # Site navigation links
 
-- title: Getting Started
-  url: /getting-started/
-  excerpt: "Everything you need to know to get started with Kun Li and Jekyll."
-  image: 400x250.gif
 
 - title: Research
   url: /articles/
