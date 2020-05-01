@@ -2,7 +2,7 @@
 layout: article
 title: "About"
 date: 2014-06-02T09:44:20-04:00
-modified: 2014-08-27T14:56:44-04:00
+modified: 2020-05-01T14:56:44-04:00
 excerpt: "This is the Kun Li about page."
 image:
   feature:
@@ -12,6 +12,11 @@ share: false
 ads: false
 ---
 
-This is a work in progress.
+Hi! I am Kun Li (李琨). 
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+I am now a PhD Candidate in <a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a>, advised by Prof. Yunquan Zhang. Also, I am a student at State Key Lab of Computer Architecture in Institute of Computing Technology, where I do my research work. My research interests lie within computational optimization on large-scale clusters(especially on Sunway TaihuLight) and high-performance algorithm design to improve software performance and algorithm efficiency.
+
+I also love traveling, reading, and taking photos. I am always willing to try all new things, and keeping to learn from them.
+
+Email: likun[AT]ict[dot]ac[dot]cn
+Address: No.6 Kexueyuan South Road, Zhongguancun Street, Haidian District, Beijing, 100190.
