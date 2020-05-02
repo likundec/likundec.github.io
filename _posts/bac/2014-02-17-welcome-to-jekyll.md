@@ -1,7 +1,7 @@
 ---
-layout: article
+layout: research
 title:  "Welcome to Jekyll!"
-categories: articles
+categories: research
 modified: 2016-06-01T16:28:57-04:00
 share: false
 ads: true
