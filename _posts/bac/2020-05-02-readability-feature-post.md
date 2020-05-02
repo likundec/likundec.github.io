@@ -2,8 +2,8 @@
 layout: article
 title: "Welcome!"
 categories: articles
-excerpt: "Welcome to my Blog![EN][CH]"
-tags: [sample, readability]
+excerpt: "Welcome to my Blog!<br>[EN/CH]"
+tags: [thoughts]
 modified: 2020-05-02
 image:
   feature: 1600x800.gif
