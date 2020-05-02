@@ -24,7 +24,7 @@ Start by creating an `authors.yml` file in the `_data` folder and add your autho
 # Authors
 
 billy_rick:
-  name: Billy Rick
+  name: Kun
   web: http://thewhip.com
   email: billy@rick.com
   bio: "What do you want, jewels? I am a very extravagant man."
