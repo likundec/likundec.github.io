@@ -1,12 +1,12 @@
 # Footer navigation links
 
-- title: Mail <i class="fa fa-facebook" aria-hidden="true"></i> 
-  url: "Mailto:ghsau@163.com"
+- title: Address <i class="fa fa-map" aria-hidden="true"></i> 
+  url: https://goo.gl/maps/7aS21NXaM18k7Uro6
 
 - title: Weibo <i class="fa fa-weibo" aria-hidden="true"></i> 
   url: https://weibo.com/2350107911/profile?topnav=1&wvr=6&is_all=1
 
-- title: About
+- title: Wechat <i class="fa fa-wechat" aria-hidden="true"></i>
   url: /about/
 
 - title: Facebook <i class="fa fa-facebook" aria-hidden="false"></i> 
