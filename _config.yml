@@ -26,11 +26,11 @@ plugins:
 
 # Site owner
 owner:
-  name: "Kun Rose"
-  web: "https://mademistakes.com"
+  name: "Kun Li"
+  web: "https://www.likun.tech"
   twitter: "mmistakes"
-  bio: "Just another boring, tattooed, time traveling designer."
-  avatar: "bio-photo.jpg" # 160x160 px image for author byline
+  bio: "Success is not as difficult as it seems."
+  avatar: "./blog/welcome/bio-photo.JPG" # 160x160 px image for author byline
   google:
     plus: "+MichaelRoseDesign"
     ad-client: "ca-pub-7328585512091257"
