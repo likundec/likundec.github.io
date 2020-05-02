@@ -24,7 +24,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">&nbsp;</h2>
-  <p class="post-excerpt">Our paper "OpenKMC: A KMC design for hundred-billion-atom simulation using millions of cores on Sunway Taihulight" has been accepted by SC 19. [2019.09]<a href="https://sc19.supercomputing.org/presentation/?id=pap236&sess=sess160"> Check details here.</a></p>
+  <p class="post-excerpt">Our paper "OpenKMC: A KMC design for hundred-billion-atom simulation using millions of cores on Sunway Taihulight" has been accepted by SC 19. [2019.09]<a href="https://sc19.supercomputing.org/presentation/?id=pap236&sess=sess160"><br>Check details here.</a></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
