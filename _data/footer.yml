@@ -1,6 +1,6 @@
 # Footer navigation links
 
-- title: Mail <i class="fa fa-mail-reply" aria-hidden="true"></i> 
+- title: Mail <i class="fa fa-facebook" aria-hidden="true"></i> 
   url: "Mailto:ghsau@163.com"
 
 - title: Weibo <i class="fa fa-weibo" aria-hidden="true"></i> 
@@ -9,5 +9,5 @@
 - title: About
   url: /about/
 
-- title: Terms
-  url: /terms/
+- title: Facebook <i class="fa fa-facebook" aria-hidden="false"></i> 
+  url: #
