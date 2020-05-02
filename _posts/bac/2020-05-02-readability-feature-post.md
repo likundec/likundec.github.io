@@ -1,15 +1,15 @@
 ---
 layout: article
-title: "KKKKK"
+title: "Welcome!"
 categories: articles
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+excerpt: "Welcome to my Blog![EN][CH]"
 tags: [sample, readability]
-modified: 2013-07-30
+modified: 2020-05-02
 image:
   feature: 1600x800.gif
-ads: true  
+ads: false  
 ---
-{% include toc.html %}
+
 ### English version [EN]
 
 Hi, my name is Kun Li. I got my Bachelor’s Degree in Computer Science from [Elite Class][elite] of [Shandong University][sdu] (Project-985) in 2016. I am now a PhD Candidate in University of Chinese Academy of Sciences, advised by Prof. Yunquan Zhang. Also, I am a student at State Key Lab of Computer Architecture in Institute of Computing Technology, where I do my research work.
@@ -29,7 +29,6 @@ I will post some programming notes, essays, and other interesting thoughts in th
 Any suggestion, opinion, and exchange is welcome. You can send an email to my [mailbox][about] or click on [Weibo][weibo] to contact me.
 
 
-{% include toc.html %}
 ### 中文版本 [CH]
 大家好，我是李琨。我于2016年在[山东大学][sdu]（985工程）计算机学院[菁英班][elite]获得了工学学士学位。现在，我是中国科学院大学的一名博士研究生，导师为张云泉老师。同时，我也是中国科学院计算技术研究所的计算机体系结构国家重点实验室的一名学生，从事我的科研工作。
 
