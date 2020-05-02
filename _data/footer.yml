@@ -3,7 +3,8 @@
 - title: Home
   url: /
 
-- title: <a href="https://weibo.com/2350107911/profile?topnav=1&wvr=6&is_all=1">Weibo <i class="fa fa-weibo" aria-hidden="true"></i> </a>
+- title: Weibo <i class="fa fa-weibo" aria-hidden="true"></i> 
+  url: https://weibo.com/2350107911/profile?topnav=1&wvr=6&is_all=1
 
 - title: About
   url: /about/
