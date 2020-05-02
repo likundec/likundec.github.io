@@ -6,12 +6,12 @@
   image: 400x250.gif
 
 - title: Research
-  url: /articles/
+  url: /research/
   excerpt: "Examples of long form posts."
   image: 400x250.gif
 
 - title: Projects
-  url: /articles/
+  url: /projects/
   excerpt: "Examples of long form posts."
   image: 400x250.gif
 
