@@ -28,13 +28,12 @@ plugins:
 owner:
   name: "Kun Li"
   web: "https://www.likun.tech"
-  twitter: "mmistakes"
+  twitter: ""
   bio: "Success is not as difficult as it seems."
   avatar: "./blog/welcome/bio-photo.JPG" # 160x160 px image for author byline
   google:
-    plus: "+MichaelRoseDesign"
-    ad-client: "ca-pub-7328585512091257"
-    ad-slot: 3049671934
+    plus: ""
+    ad-client: ""
   disqus-shortname:
 
 
