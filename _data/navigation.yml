@@ -3,29 +3,29 @@
 - title: Home
   url: /
   excerpt: "Examples of long form posts."
-  image: 400x250.gif
+  image: cas.png
 
 - title: Research
   url: /research/
   excerpt: "Examples of long form posts."
-  image: 400x250.gif
+  image: cas.png
 
 - title: Projects
   url: /projects/
   excerpt: "Examples of long form posts."
-  image: 400x250.gif
+  image: cas.png
 
 - title: Blog
   url: /articles/
   excerpt: "Examples of long form posts."
-  image: 400x250.gif
+  image: cas.png
 
 - title: CV
   url: /cv/
   excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
-  image: 400x250.gif
+  image: cas.png
 
 - title: About
   url: /about/
   excerpt: "All about Kun Li for Jekyll."
-  image: 400x250.gif
+  image: cas.png
