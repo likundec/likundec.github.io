@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Sample Media Gallery"
+title: "Research"
 date: 2014-05-30T11:40:45-04:00
 modified:
-excerpt: "An archive of media posts, perfect for portfolios and galleries."
+excerpt: "An archive of portfolios, scientific studies, and research posts."
 tags: []
 image:
   feature:
