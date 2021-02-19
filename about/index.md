@@ -14,7 +14,7 @@ ads: false
 
 Hi! I am Kun Li (李琨). 
 
-I am now a PhD Candidate in <a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a>, advised by Prof. Yunquan Zhang. Also, I am a student at State Key Lab of Computer Architecture in Institute of Computing Technology, where I do my research work. My research interests lie within computational optimization on large-scale clusters(especially on Sunway TaihuLight) and high-performance algorithm design to improve software performance and algorithm efficiency.
+I am now a PhD Candidate in <a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a>(中国科学院大学), advised by Prof. Yunquan Zhang. Also, I am a student at State Key Lab of Computer Architecture in Institute of Computing Technology(中科院计算所计算机体系结构国家重点实验室), where I do my research work. My research interests lie within computational optimization on large-scale clusters(especially on Sunway TaihuLight) and high-performance algorithm design to improve software performance and algorithm efficiency.
 
 I also love traveling, reading, and taking photos. I am always willing to try all new things, and keeping to learn from them.
 
