@@ -247,8 +247,7 @@
 	h1 {
 		text-align:left;
 	}
-	h1 {
-		@include text-align(left);
+	h1 { 
 		@include font-size(48);
 		@include media($medium) {
 			@include font-size(60);
