@@ -246,28 +246,12 @@
 	}
 	h1 {
 		text-align:left;
-	}
-	h1 { 
-		@include font-size(24);
-		@include media($medium) {
-			@include font-size(24);
-		}
-		@include media($large) {
-			@include font-size(24);
-		}
-	}
+		font-size:24;
+	} 
 	h2 {
 		text-align:left;
-	}
-	h2 { 
-		@include font-size(16);
-		@include media($medium) {
-			@include font-size(16);
-		}
-		@include media($large) {
-			@include font-size(16);
-		}
-	}
+		font-size:16;
+	} 
 }
 // page header
 .page-feature {
