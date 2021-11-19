@@ -248,21 +248,24 @@
 		text-align:left;
 	}
 	h1 { 
-		@include font-size(48);
-		@include media($medium) {
-			@include font-size(60);
-		}
-		@include media($large) {
-			@include font-size(72);
-		}
-	}
-	h2 { 
-		@include font-size(16);
+		@include font-size(24);
 		@include media($medium) {
 			@include font-size(24);
 		}
 		@include media($large) {
-			@include font-size(32);
+			@include font-size(24);
+		}
+	}
+	h2 {
+		text-align:left;
+	}
+	h2 { 
+		@include font-size(16);
+		@include media($medium) {
+			@include font-size(16);
+		}
+		@include media($large) {
+			@include font-size(16);
 		}
 	}
 }
