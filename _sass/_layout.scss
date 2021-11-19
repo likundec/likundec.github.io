@@ -236,14 +236,7 @@
 		background-size: cover;
 	}
 }
-.page-lead-content {
-	padding: 1em;
-	@include media($medium) {
-		padding: 2em;
-	}
-	@include media($large) {
-		padding: 3em;
-	}
+.page-lead-content { 
 	h1 {
 		text-align:left;
 		font-size:24;
