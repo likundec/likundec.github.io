@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: wood-texture-1600x800.jpg
+  feature: wood-texture-1600x8000.jpg
 ---
 
 <div class="tiles">
@@ -14,7 +14,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Recent News</h2>
-  <p class="post-excerpt">Our project "sAtmospheric General Circulation Model with millions of cores" starts. [2020.05]</p>
+  <p class="post-excerpt">Our project "Atmospheric General Circulation Model with millions of cores" starts. [2020.05]</p>
 </div><!-- /.tile -->
 
 <div class="tile">
