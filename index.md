@@ -14,7 +14,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Recent News</h2>
-  <p class="post-excerpt">Our project "Atmospheric General Circulation Model with millions of cores" starts. [2020.05]</p>
+  <p class="post-excerpt">Our project "sAtmospheric General Circulation Model with millions of cores" starts. [2020.05]</p>
 </div><!-- /.tile -->
 
 <div class="tile">
