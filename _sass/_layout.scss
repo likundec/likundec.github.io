@@ -236,15 +236,31 @@
 		background-size: cover;
 	}
 }
-.page-lead-content { 
+.page-lead-content {  
 	h1 {
 		text-align:left;
-		font-size:24;
-	} 
+	}
+	h1 { 
+		@include font-size(24);
+		@include media($small) {
+			@include font-size(24);
+		}
+		@include media($small) {
+			@include font-size(24);
+		}
+	}
 	h2 {
 		text-align:left;
-		font-size:16;
-	} 
+	}
+	h2 { 
+		@include font-size(16);
+		@include media($small) {
+			@include font-size(16);
+		}
+		@include media($small) {
+			@include font-size(16);
+		}
+	}
 }
 // page header
 .page-feature {
