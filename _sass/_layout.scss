@@ -231,7 +231,7 @@
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-size: initial;
+	background-size: cover;
 	text-align: center;
 	color: $white;
 	@include media($large) {
