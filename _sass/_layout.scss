@@ -245,6 +245,9 @@
 		padding: 3em;
 	}
 	h1 {
+		text-align:left;
+	}
+	h1 {
 		@include text-align(left);
 		@include font-size(48);
 		@include media($medium) {
@@ -254,8 +257,7 @@
 			@include font-size(72);
 		}
 	}
-	h2 {
-		@include text-align(left);
+	h2 { 
 		@include font-size(16);
 		@include media($medium) {
 			@include font-size(24);
