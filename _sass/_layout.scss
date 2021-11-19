@@ -236,7 +236,14 @@
 		background-size: cover;
 	}
 }
-.page-lead-content {  
+.page-lead-content {
+	padding: 1em;
+	@include media($medium) {
+		padding: 2em;
+	}
+	@include media($large) {
+		padding: 3em;
+	}
 	h1 {
 		text-align:left;
 	}
@@ -251,16 +258,8 @@
 	}
 	h2 {
 		text-align:left;
-	}
-	h2 { 
-		@include font-size(16);
-		@include media($small) {
-			@include font-size(16);
-		}
-		@include media($small) {
-			@include font-size(16);
-		}
-	}
+		font-size:16;
+	} 
 }
 // page header
 .page-feature {
