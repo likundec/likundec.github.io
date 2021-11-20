@@ -7,7 +7,7 @@ tags: [news]
 modified: 2020-05-01
 share: false
 image: 
-  teaser: ./blog/welcome/god_teaser.jpg
+  teaser: ./news/huan.jpg
   ads: false  
 ---
 
