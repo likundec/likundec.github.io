@@ -12,8 +12,8 @@ image:
   <p class="post-excerpt"><font color="CRIMSON">I will graduate in 2022 summer, and am on the academic job market.</font></p>
 </div><!-- /.tile -->
 
-<div class="tile">
-  <h2 class="post-title">Recent News</h2>
+<div class="tile"> 
+  <a href="https://github.com/mmistakes/jekyll-theme-skinny-bones" class="btn-inverse">Recent News</a>
   <p class="post-excerpt">Our project "Atmospheric General Circulation Model with millions of cores" starts. [2020.05]</p>
 </div><!-- /.tile -->
 
