@@ -9,22 +9,22 @@ image:
 
 <div class="tile">
   <h2 class="post-title"><font color="CRIMSON">Job Hunting!!!</font></h2>
-  <p class="post-excerpt"><font color="CRIMSON">I will graduate in 2022 summer, and am on the academic job market.</font></p>
+  <p class="post-excerpt"><font color="CRIMSON">I will graduate in 2022 summer, and am on the academic job market. Please download CV FYI.</font></p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Recent News</h2>
-  <p class="post-excerpt">Our project "Atmospheric General Circulation Model with millions of cores" starts. [2020.05]</p>
+  <p class="post-excerpt">Intern at Microsoft Research Asia starts. Thanks Senior Researcher <b>Ting Cao</b> and Senior Researcher <b>Xiaotian Gao</b> for referrals! [2021.08]</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title"> &nbsp;</h2>
-  <p class="post-excerpt">Our paper "An Efficient Vectorization Scheme for Stencil Computation" is under review. [2020.04]</p>
+  <p class="post-excerpt">Our paper "Reducing Redundancy in Data Organization and Arithmetic Calculation for Stencil Computations" is accepted by SC'21. Thanks Menor <b>Liang Yuan</b> and Yue Yue for collaboration! [2021.06]<a href="https://www.likun.tech/news/sc21folding"><br>Detailed news.</a></p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">&nbsp;</h2>
-  <p class="post-excerpt">Our paper "OpenKMC: A KMC design for hundred-billion-atom simulation using millions of cores on Sunway Taihulight" has been accepted by SC 19. [2019.09]<a href="https://sc19.supercomputing.org/presentation/index-id=pap236&sess=sess160.html"><br>Check details here.</a></p>
+  <p class="post-excerpt">Our paper "Temporal Vectorization for Stencils" is accepted by SC'21. Thanks Menor Liang Yuan for collaboration! [2021.06]<a href="https://www.likun.tech/news/sc21temoral"><br>Detailed news.</a></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
