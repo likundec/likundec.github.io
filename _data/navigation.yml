@@ -10,18 +10,18 @@
   excerpt: "Examples of long form posts."
   image: cas.png
 
-- title: Projects
-  url: /projects/
-  excerpt: "Examples of long form posts."
-  image: cas.png
+#- title: Projects
+#  url: /projects/
+#  excerpt: "Examples of long form posts."
+#  image: cas.png
 
 - title: Blog
   url: /articles/
   excerpt: "Examples of long form posts."
   image: cas.png
 
-- title: CV
-  url: /cv/
+- title: Events
+  url: /events/
   excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
   image: cas.png
 
