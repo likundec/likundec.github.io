@@ -99,7 +99,7 @@ jekyll-theme-skinny-bones-master
 |   ├── _main.js                        # site scripts and plugin settings go here
 |   └── main.min.js                     # concatenated and minified site scripts
 ├── apple-touch-icon-precomposed.png    # 152x152 px for iOS
-├── lk.jpg                        # 32x32 px for browsers
+├── favicon.ico                      # 32x32 px for browsers
 └── index.md                            # homepage content
 └── _config.yml                         # Jekyll settings
 ```
