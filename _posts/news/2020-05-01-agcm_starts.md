@@ -12,4 +12,4 @@ image:
 ---
 
 
-\[2020.05\]: Our project "Atmospheric General Circulation Model with millions of cores" starts.
+\[2020.05\] Our project "Atmospheric General Circulation Model with millions of cores" starts.
