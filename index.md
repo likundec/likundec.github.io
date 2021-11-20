@@ -24,7 +24,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">&nbsp;</h2>
-  <p class="post-excerpt">Our paper "Temporal Vectorization for Stencils" is accepted by SC'21. Thanks Menor Liang Yuan for collaboration! [2021.06]<a href="https://www.likun.tech/news/sc21temoral"><br>Detailed news.</a></p>
+  <p class="post-excerpt">Our paper "Temporal Vectorization for Stencils" is accepted by SC'21. Thanks Menor <b>Liang Yuan</b> for collaboration! [2021.06]<a href="https://www.likun.tech/news/sc21temoral"><br>Detailed news.</a></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
