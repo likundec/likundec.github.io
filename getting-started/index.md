@@ -68,7 +68,7 @@ jekyll-theme-skinny-bones-master
 |    ├── article.html                   # articles, blog posts, text heavy material layout
 |    ├── default.html                   # base
 |    ├── research.html                   # base
-|    ├── projects.html                   # base
+|    ├── news.html                   # base
 |    ├── home.html                      # home page
 |    └── media.html                     # portfolio, work, media layout
 ├── _posts                              # posts grouped by category for sanity
