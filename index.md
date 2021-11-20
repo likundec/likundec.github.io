@@ -14,6 +14,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Recent News</h2>
+  <p class="post-excerpt">[2021.08]</p>
   <p class="post-excerpt">Intern at Microsoft Research Asia starts. Thanks Senior Researcher <b>Ting Cao</b> and Senior Researcher <b>Xiaotian Gao</b> for referrals! [2021.08]</p>
 </div><!-- /.tile -->
 
