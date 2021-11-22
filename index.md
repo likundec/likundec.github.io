@@ -21,13 +21,13 @@ image:
 <div class="tile">
   <h2 class="post-title"> &nbsp;</h2>
   <p class="post-excerpt">[2021.06]</p>
-  <p class="post-excerpt">Our paper "Reducing Redundancy in Data Organization and Arithmetic Calculation for Stencil Computations" is accepted by SC'21. Thanks Menor <b>Liang Yuan</b> and Yue Yue for collaboration!<a href="https://www.likun.tech/news/sc21folding"><br>Detailed news.</a></p>
+  <p class="post-excerpt">Our paper "Reducing Redundancy in Data Organization and Arithmetic Calculation for Stencil Computations" is accepted by SC'21. Thanks Menor <b>Liang Yuan</b> and Yue Yue for collaboration!<a href="https://www.likun.tech/news/sc21folding"><br>MORE</a></p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">&nbsp;</h2>
   <p class="post-excerpt">[2021.06]</p>
-  <p class="post-excerpt">Our paper "Temporal Vectorization for Stencils" is accepted by SC'21. Thanks Menor <b>Liang Yuan</b> for collaboration! <a href="https://www.likun.tech/news/sc21temoral"><br>Detailed news.</a></p>
+  <p class="post-excerpt">Our paper "Temporal Vectorization for Stencils" is accepted by SC'21. Thanks Menor <b>Liang Yuan</b> for collaboration! <a href="https://www.likun.tech/news/sc21temoral"><br>MORE</a></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
