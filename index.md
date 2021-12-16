@@ -9,7 +9,6 @@ image:
 
 <div class="tile">
   <h2 class="post-title"><font color="CRIMSON">Job Hunting!!!</font></h2>
-  <p class="post-excerpt"><font color="CRIMSON">[2021.12]</p>
   <p class="post-excerpt"><font color="CRIMSON">I will graduate in 2022 summer, and am pre-onboard to be a researcher in MSRA. For further tie-ups, please download CV FYI.</font></p>
 </div><!-- /.tile -->
 
