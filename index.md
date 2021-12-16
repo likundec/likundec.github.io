@@ -13,14 +13,14 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">&nbsp;</h2>
+  <h2 class="post-title">Recent News</h2>
   <p class="post-excerpt">[2021.12]</p>
   <p class="post-excerpt">Our paper "An Accurate and Efficient Large-scale Regression Method through Best Friend Clustering" is accepted by IEEE TPDS. Thanks my brother Gongwei Chen for collaboration! <a href="https://www.likun.tech/news/tpds2021"><br>MORE</a></p>
 </div><!-- /.tile -->
 
 
 <div class="tile">
-  <h2 class="post-title">Recent News</h2>
+  <h2 class="post-title">&nbsp;</h2>
   <p class="post-excerpt">[2021.08]</p>
   <p class="post-excerpt">Intern at Microsoft Research Asia starts. Thanks Senior Researcher <b>Ting Cao</b> and Senior Researcher <b>Xiaotian Gao</b> for referrals! <a href="https://www.likun.tech/news/msra_intern"><br>MORE</a></p>
 </div><!-- /.tile -->
