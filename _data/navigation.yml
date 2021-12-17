@@ -5,10 +5,10 @@
   excerpt: "Examples of long form posts."
   image: cas.png
 
-- title: Research
-  url: /research/
-  excerpt: "Examples of long form posts."
-  image: cas.png
+#- title: Research
+#  url: /research/
+#  excerpt: "Examples of long form posts."
+#  image: cas.png
 
 - title: News
   url: /news/
