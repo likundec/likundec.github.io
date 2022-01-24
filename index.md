@@ -17,7 +17,7 @@ image:
 <div class="tile">
   <h2 class="post-title"> &nbsp;</h2>
   <p class="post-excerpt">[2022.01]</p>
-  <p class="post-excerpt">Our paper "An Efficient Vectorization Scheme for Stencil Computation" is accepted by IPDPS'22. Thanks associate professor Liang Yuan and coauthor Yue Yue for collaboration!<a href="https://www.likun.tech/news/ipdps22"><br>MORE</a></p>
+  <p class="post-excerpt">Our paper "An Efficient Vectorization Scheme for Stencil Computation" is accepted by IPDPS'22. Thanks associate professor <b>Liang Yuan</b> and coauthor <b>Yue Yue</b> for collaboration!<a href="https://www.likun.tech/news/ipdps22"><br>MORE</a></p>
 </div><!-- /.tile -->
 
 
