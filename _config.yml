@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "Kun Li"
+title: "Kun Li@MSRA"
 description: "A lightweight site starter for Jekyll"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: "https://likundec.github.io"
+url: "https://www.likun.tech"
 feed:
   path: atom.xml
 
