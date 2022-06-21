@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: wallpaper_home.jpg 
+  feature: asia-banner2.jpg 
 ---
 
 <div class="tiles">
