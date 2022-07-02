@@ -20,4 +20,4 @@ I also love Chinese painting, reading, and taking photos. I am always willing to
 
 Email: likungw[AT]gmail[DOT]com
 
-Address: 12F, Microsoft Building 2, Danling Street, Zhongguancun, Haidian District, Beijing, China
+Address: Tower 2, No. 5 Danling Street, Haidian District, Beijing, P.R. China 100080
