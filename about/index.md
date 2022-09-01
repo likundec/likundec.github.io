@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: collaborators
 title: "About"
 date: 2014-06-02T09:44:20-04:00
 modified: 2022-07-01T14:56:44-04:00
