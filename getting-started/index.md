@@ -87,7 +87,6 @@ jekyll-theme-skinny-bones-master
 |   ├── _notices.scss                   # notice blocks
 |   ├── _syntax.scss                    # Pygments.rb syntax highlighting
 |   ├── _reset.scss                     # normalize and reset elements
-|   ├── _sliding-menu.scss              # sliding menu overlay
 |   ├── _variables.scss                 # global colors and fonts
 |   ├── css
 |   └── main.scss                       # loads all Sass partials
