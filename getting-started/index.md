@@ -64,11 +64,12 @@ jekyll-theme-skinny-bones-master
 ├── _images                             # unoptimized images
 ├── _includes                           # reusable blocks for _layouts
 ├── _layouts
-|    ├── collaborators.html                   # archive listing of a group of posts or collection
+|    ├── archive.html                   # archive listing of a group of posts or collection
 |    ├── article.html                   # articles, blog posts, text heavy material layout
 |    ├── default.html                   # base
 |    ├── research.html                   # base
 |    ├── news.html                   # base
+|    ├── collaborators.html  
 |    ├── home.html                      # home page
 |    └── media.html                     # portfolio, work, media layout
 ├── _posts                              # posts grouped by category for sanity
