@@ -70,6 +70,7 @@ jekyll-theme-skinny-bones-master
 |    ├── research.html                   # base
 |    ├── news.html                   # base
 |    ├── collaborators.html  
+|    ├── recruitment.html  
 |    ├── home.html                      # home page
 |    └── media.html                     # portfolio, work, media layout
 ├── _posts                              # posts grouped by category for sanity
