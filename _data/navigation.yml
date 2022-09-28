@@ -25,6 +25,11 @@
   excerpt: "Examples of long form posts."
   image: cas.png
 
+- title: Recruitment
+  url: /recruitment/
+  excerpt: "Examples of long form posts."
+  image: cas.png
+
 - title: About
   url: /about/
   excerpt: "All about Kun Li for Jekyll."
