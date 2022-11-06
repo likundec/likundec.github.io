@@ -8,14 +8,13 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title"> &nbsp;</h2>
+  <h2 class="post-title">Recent News</h2>
   <p class="post-excerpt">[2022.11]</p>
   <p class="post-excerpt">Awarded with 2022 ACM SIGHPC China优博奖! <a href="https://mp.weixin.qq.com/s/AsE3UO6Y1YexOTQ02OarXQ"><br>MORE</a></p>
 </div><!-- /.tile -->
 
 
 <div class="tile">
-  <h2 class="post-title">Recent News</h2>
   <p class="post-excerpt">[2022.06]</p>
   <p class="post-excerpt">Awarded with  CAS President Scholarship!<a href="https://onestop.ucas.ac.cn/home/infob/a26260c0-d90a-4fc0-82ec-7b574e9dcd40/2"><br>MORE</a></p>
 </div><!-- /.tile -->
