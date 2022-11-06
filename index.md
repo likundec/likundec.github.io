@@ -15,6 +15,7 @@ image:
 
 
 <div class="tile">
+  <h2 class="post-title"> &nbsp;</h2>
   <p class="post-excerpt">[2022.06]</p>
   <p class="post-excerpt">Awarded with  CAS President Scholarship!<a href="https://onestop.ucas.ac.cn/home/infob/a26260c0-d90a-4fc0-82ec-7b574e9dcd40/2"><br>MORE</a></p>
 </div><!-- /.tile -->
