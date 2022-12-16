@@ -18,15 +18,19 @@ image:
 
   
       
-
-dfhgfhfgh   
-dfhgfhfgh   
-dfhgfhfgh   
-dfhgfhfgh   
-dfhgfhfgh   
-   
-
-
+<br />
+<br />
+<br />
+<br /> 
+<br />
+<br />
+<br />
+<br /> 
+<br />
+<br />
+<br />
+<br />   
+dfhgfhfgh    
 <div class="tiles">
 {% for post in site.categories.collaborators %}
   {% include post-grid.html %}
