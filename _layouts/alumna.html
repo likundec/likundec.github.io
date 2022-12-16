@@ -18,7 +18,12 @@ layout: default
 		</div> 
 		<div class="archive-wrap">
 			<div class="page-content">
-				{{ content }}
+				{{ 
+					<div class="tiles">
+					{% for post in site.categories.collaborators %}
+					  {% include post-grid.html %}
+					{% endfor %}
+					</div><!-- /.tiles --> }}
 			</div><!-- /.page-content -->
 		</div class="archive-wrap"><!-- /.archive-wrap --> 
 	</div><!-- /.wrap -->

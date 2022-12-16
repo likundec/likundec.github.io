@@ -10,29 +10,4 @@ image:
   teaser:
 ---
 
-<div class="tiles">
-{% for post in site.categories.collaborators %}
-  {% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
-
-  
-      
-<br />
-<br />
-<br />
-<br /> 
-<br />
-<br />
-<br />
-<br /> 
-<br />
-<br />
-<br />
-<br />   
-dfhgfhfgh    
-<div class="tiles">
-{% for post in site.categories.collaborators %}
-  {% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+ 
