@@ -4,7 +4,7 @@ title: "Collaborators"
 alumni: "Alumni"
 date: 2014-05-30T11:39:03-04:00
 modified:
-excerpt: "Interns"
+excerpt: "Current Students"
 slogan: "Alumni"
 tags: []
 image:
