@@ -22,5 +22,14 @@ layout: default
 			{% include post-grid.html %}
 			{% endfor %}
 		</div><!-- /.tiles -->
+		<div class="page-title">
+			<h1>{{ page.alumni }}</h1>
+			{% if page.slogan %}<h2>{{ page.slogan }}</h2>{% endif %}
+		</div> 
+		<div class="tiles">
+			{% for post in site.categories.alumni %}
+			{% include post-grid.html %}
+			{% endfor %}
+		</div><!-- /.tiles -->
 	</div><!-- /.wrap -->
 </div><!-- /#main -->
