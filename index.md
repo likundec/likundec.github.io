@@ -8,13 +8,14 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title"> &nbsp;</h2>
+<h2 class="post-title">Recent News</h2>
+  
   <p class="post-excerpt">[2023.11]</p>
   <p class="post-excerpt">Our paper "ConvStencil: Transform Stencil Computation to Matrix Multiplication on Tensor Cores" is accepted by PPOPP'24. Congratulations to Yuetao!</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Recent News</h2>
+  <h2 class="post-title"> &nbsp;</h2>
   <p class="post-excerpt">[2023.01]</p>
   <p class="post-excerpt">Awarded with 2022 CCF优博! <a href="https://www.ccf.org.cn/Awards/Awards/2023-01-04/783561.shtml"><br>MORE</a></p>
 </div><!-- /.tile -->
