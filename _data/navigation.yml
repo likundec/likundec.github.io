@@ -2,7 +2,7 @@
 
 - title: Home
   url: /
-  excerpt: "Examples of long form posts."
+  excerpt: "Kun Li's homepage."
   image: cas.png
 
 - title: Profile
@@ -15,22 +15,22 @@
 #  excerpt: "Examples of long form posts."
 #  image: cas.png
 
-- title: News
-  url: /news/
-  excerpt: "Examples of long form posts."
-  image: cas.png
+#- title: News
+#  url: /news/
+#  excerpt: "Examples of long form posts."
+#  image: cas.png
 
 - title: Collaborators
   url: /collaborators/
-  excerpt: "Examples of long form posts."
+  excerpt: "Interns and collaborators."
   image: cas.png
 
-- title: Recruitment
-  url: /recruitment/
-  excerpt: "Examples of long form posts."
-  image: cas.png
+#- title: Recruitment
+#  url: /recruitment/
+#  excerpt: "Examples of long form posts."
+#  image: cas.png
 
 - title: About
   url: /about/
-  excerpt: "All about Kun Li for Jekyll."
+  excerpt: "About Kun Li."
   image: cas.png
