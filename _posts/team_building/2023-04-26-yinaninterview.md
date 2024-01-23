@@ -10,6 +10,8 @@ image:
 ads: false
 ---
  
-Interview Vlog for Yinnan.
+Interview <a href= "https://www.bilibili.com/video/BV1uo4y1L7Rw/?spm_id_from=333.999.0.0">Vlog</a> for Yinnan. 
+
+("You can click the link to jump to Bilibili, or you can stay on this page and wait for the video to load.")
 
 <iframe src="//player.bilibili.com/player.html?aid=400453803&bvid=BV1uo4y1L7Rw&cid=1109968759&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
