@@ -29,7 +29,11 @@
 #  url: /recruitment/
 #  excerpt: "Examples of long form posts."
 #  image: cas.png
-
+- title: Team Building
+  url: /team_building/
+  excerpt: "Rich and colorful activities."
+  image: cas.png
+  
 - title: About
   url: /about/
   excerpt: "About Kun Li."
