@@ -1,6 +1,6 @@
 ---
 layout: alumni
-ftetitle: "Prjoect Lead"
+ftetitle: "Project Lead"
 title: "Collaborators"
 alumni: "Alumni"
 date: 2014-05-30T11:39:03-04:00
