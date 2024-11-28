@@ -1,0 +1,13 @@
+---
+layout: collaborators
+title: "Haozhi Han"
+categories: fte
+excerpt: "Master student @ PKU"
+modified: 2023-11-29
+tags: [collaborators]
+image:
+  teaser: ./collaborators/haozhi.jpg
+ads: false
+---
+
+Haozhi Han is a master student at Peking University. Previously, He receied Bachelor's degree from University College Dublin & Beijing University of Technology (Joint Program). His research interests include high performance computing, and density functional theory.
